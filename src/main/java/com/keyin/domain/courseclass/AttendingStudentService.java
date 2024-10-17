@@ -1,2 +1,4 @@
-package com.keyin.domain.courseclass;public class AttendingStudentService {
+package com.keyin.domain.courseclass;
+
+public class AttendingStudentService {
 }
